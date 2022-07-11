@@ -108,8 +108,8 @@ body{
 }
 
 input{
-    width: 400px;
-    height: 40px;
+    width: 250px;
+    height: 30px;
     border:1px solid #E5E7EB;
     border-radius: 5px;
 }
@@ -135,7 +135,7 @@ label{
 }
 
 button{
-    width: 300px;
+    width: 230px;
     border-radius: 5px;
     font-size: 18px;
     font-weight: bold;

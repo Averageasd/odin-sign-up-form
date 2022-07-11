@@ -15,7 +15,7 @@ body{
 }
 
 .img{
-    width: 800px;
+    width: 100%;
     
 }
 
@@ -28,6 +28,10 @@ body{
     display: flex;
     padding-top: 20px;
     padding-bottom: 20px;
+}
+
+.odin-img{
+    height: min(100px,100%);
 }
 
 .form{
